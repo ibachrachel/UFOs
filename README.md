@@ -22,6 +22,7 @@ When a user navigates to the page, they should be able to scroll down and see th
 
 
 Below is an example search of any UFO sightings for 01/05/2010. There are 7 results that come up from this search. 
+
 ![Example Date Search](https://user-images.githubusercontent.com/102566199/176562107-2eb0ab45-3120-43ba-a720-8e21b460d5ec.png)
 
 If the user would like to search a different set of parameters, they can reset the Filter Search by scrolling up and clicking the "UFO Sightings" heading. This will clear the results of the last search completely and will repopulate the table with the full data set. 
