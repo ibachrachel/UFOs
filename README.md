@@ -1,6 +1,5 @@
 ###  Module 11: Javascript, Bootstrap, and UFOs
 
-> Navigate to the website here: [(C:/Users/15304/UFOs/index.html)] 
 
 ## Overview: 
 
