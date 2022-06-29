@@ -3,6 +3,7 @@
 ## Overview: 
 
 *Background* 
+
 Dana, a data journalist, has the freedom to write about her hometown in Oregon. She decides her topic will be UFOs and she will use Javascipt to display the data in a cool and interactive dashboard by using HTML, CSS, and Bootstrap.
 
 Dana’s webpage and dynamic table are working as intended, but she’d like to provide a more in-depth analysis of UFO sightings by allowing users to filter for multiple criteria at the same time. In addition to the date, table filters for the city, state, country, and shape will be added to increase the interactivity of the dashboard.
